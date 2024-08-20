@@ -1,2 +1,2 @@
 # LeetCode
-My ProblemSolving To LeetCode Questions With C# Language
+Collections of leetcode problems ang my solutions
