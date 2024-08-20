@@ -6,6 +6,7 @@ Collections of leetcode problems ang my solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dinaiprahem/LeetCode/tree/master/0001-two-sum) |
 | [1240-stone-game-ii](https://github.com/dinaiprahem/LeetCode/tree/master/1240-stone-game-ii) |
 ## Math
 |  |
@@ -23,4 +24,8 @@ Collections of leetcode problems ang my solutions
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/dinaiprahem/LeetCode/tree/master/1240-stone-game-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/dinaiprahem/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
