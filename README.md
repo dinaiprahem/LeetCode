@@ -15,6 +15,7 @@ Collections of leetcode problems and my solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0664-strange-printer](https://github.com/dinaiprahem/LeetCode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/dinaiprahem/LeetCode/tree/master/1240-stone-game-ii) |
 ## Prefix Sum
 |  |
@@ -28,4 +29,8 @@ Collections of leetcode problems and my solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dinaiprahem/LeetCode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0664-strange-printer](https://github.com/dinaiprahem/LeetCode/tree/master/0664-strange-printer) |
 <!---LeetCode Topics End-->
