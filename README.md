@@ -11,6 +11,7 @@ Collections of leetcode problems and my solutions
 ## Math
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/dinaiprahem/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/dinaiprahem/LeetCode/tree/master/1240-stone-game-ii) |
 ## Dynamic Programming
 |  |
@@ -32,9 +33,14 @@ Collections of leetcode problems and my solutions
 ## String
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/dinaiprahem/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/dinaiprahem/LeetCode/tree/master/0664-strange-printer) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/dinaiprahem/LeetCode/tree/master/0476-number-complement) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/dinaiprahem/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
