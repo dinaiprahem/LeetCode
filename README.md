@@ -11,6 +11,7 @@ Collections of leetcode problems and my solutions
 ## Math
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/dinaiprahem/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dinaiprahem/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/dinaiprahem/LeetCode/tree/master/1240-stone-game-ii) |
 ## Dynamic Programming
@@ -33,6 +34,7 @@ Collections of leetcode problems and my solutions
 ## String
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/dinaiprahem/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dinaiprahem/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/dinaiprahem/LeetCode/tree/master/0664-strange-printer) |
 ## Bit Manipulation
