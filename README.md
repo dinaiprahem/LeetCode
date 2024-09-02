@@ -8,6 +8,7 @@ Collections of leetcode problems and my solutions
 | ------- |
 | [0001-two-sum](https://github.com/dinaiprahem/LeetCode/tree/master/0001-two-sum) |
 | [1240-stone-game-ii](https://github.com/dinaiprahem/LeetCode/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dinaiprahem/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Collections of leetcode problems and my solutions
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/dinaiprahem/LeetCode/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dinaiprahem/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
@@ -45,6 +47,7 @@ Collections of leetcode problems and my solutions
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/dinaiprahem/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dinaiprahem/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Stack
 |  |
 | ------- |
@@ -64,4 +67,8 @@ Collections of leetcode problems and my solutions
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/dinaiprahem/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dinaiprahem/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
