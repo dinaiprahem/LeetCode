@@ -7,6 +7,7 @@ Collections of leetcode problems and my solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dinaiprahem/LeetCode/tree/master/0001-two-sum) |
+| [0906-walking-robot-simulation](https://github.com/dinaiprahem/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/dinaiprahem/LeetCode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dinaiprahem/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
@@ -33,6 +34,7 @@ Collections of leetcode problems and my solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dinaiprahem/LeetCode/tree/master/0001-two-sum) |
+| [0906-walking-robot-simulation](https://github.com/dinaiprahem/LeetCode/tree/master/0906-walking-robot-simulation) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ Collections of leetcode problems and my solutions
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/dinaiprahem/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/dinaiprahem/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dinaiprahem/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dinaiprahem/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
