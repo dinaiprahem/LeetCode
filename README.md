@@ -10,12 +10,14 @@ Collections of leetcode problems and my solutions
 | [0906-walking-robot-simulation](https://github.com/dinaiprahem/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/dinaiprahem/LeetCode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dinaiprahem/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2155-find-missing-observations](https://github.com/dinaiprahem/LeetCode/tree/master/2155-find-missing-observations) |
 ## Math
 |  |
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/dinaiprahem/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dinaiprahem/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/dinaiprahem/LeetCode/tree/master/1240-stone-game-ii) |
+| [2155-find-missing-observations](https://github.com/dinaiprahem/LeetCode/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Collections of leetcode problems and my solutions
 | [0906-walking-robot-simulation](https://github.com/dinaiprahem/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dinaiprahem/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dinaiprahem/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/dinaiprahem/LeetCode/tree/master/2155-find-missing-observations) |
 ## Stack
 |  |
 | ------- |
