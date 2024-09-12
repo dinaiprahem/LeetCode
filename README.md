@@ -9,6 +9,7 @@ Collections of leetcode problems and my solutions
 | [0001-two-sum](https://github.com/dinaiprahem/LeetCode/tree/master/0001-two-sum) |
 | [0906-walking-robot-simulation](https://github.com/dinaiprahem/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/dinaiprahem/LeetCode/tree/master/1240-stone-game-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dinaiprahem/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dinaiprahem/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/dinaiprahem/LeetCode/tree/master/2155-find-missing-observations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dinaiprahem/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -38,6 +39,7 @@ Collections of leetcode problems and my solutions
 | ------- |
 | [0001-two-sum](https://github.com/dinaiprahem/LeetCode/tree/master/0001-two-sum) |
 | [0906-walking-robot-simulation](https://github.com/dinaiprahem/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dinaiprahem/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dinaiprahem/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -45,11 +47,13 @@ Collections of leetcode problems and my solutions
 | [0564-find-the-closest-palindrome](https://github.com/dinaiprahem/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dinaiprahem/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/dinaiprahem/LeetCode/tree/master/0664-strange-printer) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dinaiprahem/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dinaiprahem/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/dinaiprahem/LeetCode/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dinaiprahem/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dinaiprahem/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
@@ -95,4 +99,8 @@ Collections of leetcode problems and my solutions
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/dinaiprahem/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dinaiprahem/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
